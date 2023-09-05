@@ -34,7 +34,7 @@ Concatenate the two halves and return the new string
 
 For example, the following table shows some results of calling recombine. Note that if a word has an odd number of letters, the second half of the word contains the extra letter. 
 
-![image](https://github.com/techarenz/CS.12.01-Tutorial.1.2.5/assets/57818506/f482aac9-671a-4d17-b396-6d9fca9adadc)
+<img width="729" alt="image" src="https://github.com/techarenz/CS.12.01-Tutorial.1.2.5/assets/57818506/a9d139d8-a43f-4e52-846d-ff5bccf2dfb1">
 
 b) Write the WordScrambler method mixedWords. This method creates and returns a new array of String objects as follows.
 
